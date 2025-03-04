@@ -1,4 +1,4 @@
-# 🚀 Static Website Deployment in AWS Using S3 and CloudFront
+#  Static Website Deployment in AWS Using S3 and CloudFront
 
 ## 📌 Features
 - 🔒 **S3 Bucket Security** (No public access, CloudFront-only access)
